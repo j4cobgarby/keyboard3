@@ -55,7 +55,9 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "courtyards_overlap|70142401|101250001|18a2ecf4-62f9-4146-90f9-407de24eb13e|43f5af5b-f70f-403b-955e-52795fdff2ec"
+      ],
       "meta": {
         "version": 2
       },
@@ -452,7 +454,7 @@
     "classes": [
       {
         "bus_width": 12.0,
-        "clearance": 0.15,
+        "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
